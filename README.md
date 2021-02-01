@@ -5,7 +5,7 @@ Author: [Edward De Jesus](https://github.com/edejesus196)
 <p><img src="./images/normal-pneumonia-animation.gif" alt="Header"></p>
 
 ## Overview
-Pneumonia is an infection in the Lungs caused by microbes. The most common causes are due to virus and bacteria that manage to evade the human body’s defense mechanisms and colonize the lungs' Bronchioles or Alveoli. This results in inflammation that causes the lungs to fill up with fluids, which makes it hard to breath. According to the Center for Desease Control (CDC), about 50,000 people die from pneumonia each year in the United States. The mortality rate for patients with severe cases of the pnemonia is up to 30%.
+Pneumonia is an infection in the lungs caused by microbes. The most common causes are due to virus and bacteria that manage to evade the human body’s defense mechanisms and colonize the lungs' Bronchioles or Alveoli. This results in inflammation that causes the lungs to fill up with fluids, which makes it hard to breath. According to the Center for Desease Control (CDC), about 50,000 people die from pneumonia each year in the United States. The mortality rate for patients with severe cases of the pnemonia is up to 30%.
 
 Pneumonia can be detected in x ray images of the lungs. There are three types of pneumonia: bronchopneumonia, atypical pneumonia and Lobar pnuemonia. Each type has discernible patterns that appear in x rays.
 
@@ -19,7 +19,7 @@ Lobar pneumonia is when fluid localizes to single lobe and show as a concentrati
 <p><img src="./images/lobar_pneumonia.jpeg" width="235" height="256" style="float:left"></p>
 
 
-In this case study, I test several convolutional neural networks to identify wether an X ray image is shows normal lungs or lungs infected with pneumonia.The dataset used in this case study comes from Kermany et al. on [Mendeley](https://data.mendeley.com/datasets/rscbjbr9sj/3), but this project uses the [Kaggles’ version](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
+In this case study, I test several convolutional neural networks to identify wether an X ray image is shows normal lungs or lungs infected with pneumonia.The dataset used comes from Kermany et al. on [Mendeley](https://data.mendeley.com/datasets/rscbjbr9sj/3), but this project uses the [Kaggles’ version](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
 
 
 ## Approach
