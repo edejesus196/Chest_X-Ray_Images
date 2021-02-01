@@ -34,10 +34,11 @@ In this case study, I test several convolutional neural networks to identify wet
 
 ## Results
 
-|      |      |
-|:-----|:-----|
-|      |      |
-|      |      |
+|          |Test Loss|Test Accuracy|F1 Score|Recall|
+|:---------|:--------|:------------|:-------|:-----|
+|NN Model 1|0.586    |80%          |0.828   |99%   |
+|NN Model 2|0.753    |79%          |0.832   |99%   |
+|NN Model 3|0.513    |83%          |0.868   |97%   |
 
 ## Next Steps
 
