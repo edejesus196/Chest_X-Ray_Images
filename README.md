@@ -12,9 +12,11 @@ Pneumonia can be detected in x rays images of the lungs. There are three types o
 The image below shows a case of Bronchopneumonia, which shows up as patchy areas and spreads thought the longs.
 <p><img src="./images/X-ray_of_bronchopneumonia.png" width="235" height="256" style="float:left"></p>
 
-Atypical pneumonia also preads though the lung and also communly concentrates in the perihilar region of the lungs.
+Atypical pneumonia commonly  concentrates in the perihilar region of the lungs.
 <p><img src="./images/Atypical_pneumonia.jpeg" width="235" height="256" style="float:left"></p>
 
+Lobar pneumonia is when fluid localizes to single lobe and show as a concentration in a region of the lungs.
+<p><img src="./images/lobar_pneumonia" width="235" height="256" style="float:left"></p>
 
 
 identify wether an X ray image is show normal lungs or lungs infected with pneumonia.
