@@ -38,9 +38,8 @@ In this case study, I test several convolutional neural networks to identify wet
 
 ## Repository Structure
     
-    ├── Data                              Raw Files
-    ├── EDA_Notebooks                     Original EDA Workbooks    
-    ├── Reference                         Reference Files and Terms Dictionaries
     ├── images                            Images
-    ├── README.md                         ReadMe
-    └── census_income_2019_EDA.ipynb      Final Notebook
+    ├── presentation                      Final PowerPoint presentation slideshows
+    ├── main_notebook.ipynb               Final notebook 
+    ├── pneumoniaCDC2010.csv              Notebook with CDC data used for timeseries chart of pnuemoia cases
+    └── README.md                         ReadMe
