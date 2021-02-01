@@ -29,10 +29,11 @@ In this case study, I test several convolutional neural networks to identify wet
 1. **Preprocessing -** Import and scale training, validation and testing batches of x ray images.
 2. **Modeling -** Create several convolutional models with different hidden neurons and layers.
 3. **Training -** Train the different models on the training batch.
-4. **Evaluating -** Evaluate the model on the validation and test batches using the Adam optimizer, binary cross-entropy loss function, and the accuracy metric. I also evaluate the models using the recall metric.
+4. **Evaluating -** Evaluate the model on the validation and test batches using the Adam optimizer, binary cross-entropy loss function, and the accuracy metric. I also evaluate the models using the F1 score and recall metric.
 5. **Tunning -** Experiment with different numbers of hidden neurons and layers and compare results.
 
 ## Results
+I tested three convolutional 3 neural networks on the validation and testing batches. Below are the results I obtained evaluation the models on the testing batch. Model 1 is a simpler model containing 32 hidden neurons in the first and second convolutional hidden layer, and 100 hidden neurons in a third dense layer. Model 2 contains 32 hidden neurons in the first and second convolutional hidden layers, and 100 hidden neurons in a third dense layer. And Model 3 has 64 hidden neurons in the first convolutional first hidden layer, but 32 in the send and a third hidden layer, and 100 hidden neurons in a fourth dense hidden layer.
 
 |          |Test Loss|Test Accuracy|F1 Score|Recall|
 |:---------|:--------|:------------|:-------|:-----|
