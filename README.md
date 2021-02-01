@@ -9,7 +9,7 @@ Pneumonia is an infection in the Lungs caused by microbes. The most common cause
 
 Pneumonia can be detected in x rays images of the lungs. There are three types of pneumonia and each has discernible patterns that appear in x rays.
 
-<p><img src="./images/X-ray_of_bronchopneumonia.png"></p>
+<p><img src="./images/X-ray_of_bronchopneumonia.png" width="103" height="112" style="float:left"></p>
 
 
 
