@@ -43,6 +43,12 @@ I tested three convolutional 3 neural networks on the validation and testing bat
 
 ## Next Steps
 
+Below are steps I plan to take to achieve better model performance:
+
+1. Obtain more x ray images of normal lungs to balance out the classes more and improve the models' performance.
+2. Build more complex models and use regularization techniques to address potential overfitting.
+2. Continue to improve overall accuracy score and achieve a near perfect recall score to eliminate type II errors (false negatives).
+
 ## Repository Structure
     
     ├── images                            Images
