@@ -19,7 +19,7 @@ Lobar pneumonia is when fluid localizes to single lobe and show as a concentrati
 <p><img src="./images/lobar_pneumonia.jpeg" width="235" height="256" style="float:left"></p>
 
 
-In this case study, I test several convolutional neural network to identify wether an X ray image is shows normal lungs or lungs infected with pneumonia.The dataset used in this case study comes from Kermany et al. on [Mendeley](https://data.mendeley.com/datasets/rscbjbr9sj/3), but this project uses the [Kaggles’ version](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
+In this case study, I test several convolutional neural networks to identify wether an X ray image is shows normal lungs or lungs infected with pneumonia.The dataset used in this case study comes from Kermany et al. on [Mendeley](https://data.mendeley.com/datasets/rscbjbr9sj/3), but this project uses the [Kaggles’ version](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
 
 
 ## Approach
