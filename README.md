@@ -9,10 +9,11 @@ Pneumonia is an infection in the Lungs caused by microbes. The most common cause
 
 Pneumonia can be detected in x rays images of the lungs. There are three types of pneumonia: bronchopneumonia, atypical pneumonia and Lobar pnuemonia. Each type has discernible patterns that appear in x rays.
 
+The image below shows a case of Bronchopneumonia, which shows up as patchy areas and spreads thought the longs.
 <p><img src="./images/X-ray_of_bronchopneumonia.png" width="235" height="256" style="float:left"></p>
-The image above shows a case of Bronchopneumonia, which shows up as patchy areas and spreads thought the longs.
 
-<p><img src="./images/Atypical_pneumonia.jpeg" width="235" height="256" style="float:left">Atypical pneumonia also preads though the lung and also communly concentrates in the perihilar region of the lungs.</p>
+Atypical pneumonia also preads though the lung and also communly concentrates in the perihilar region of the lungs.
+<p><img src="./images/Atypical_pneumonia.jpeg" width="235" height="256" style="float:left"></p>
 
 
 
