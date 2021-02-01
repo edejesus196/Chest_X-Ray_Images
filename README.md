@@ -34,6 +34,11 @@ In this case study, I test several convolutional neural networks to identify wet
 
 ## Results
 
+|      |      |
+|:-----|:-----|
+|      |      |
+|      |      |
+
 ## Next Steps
 
 ## Repository Structure
@@ -41,5 +46,5 @@ In this case study, I test several convolutional neural networks to identify wet
     ├── images                            Images
     ├── presentation                      Final PowerPoint presentation slideshows
     ├── main_notebook.ipynb               Final notebook 
-    ├── pneumoniaCDC2010.csv              Notebook with CDC data used for timeseries chart of pnuemoia cases
+    ├── pneumoniaCDC2010.csv              CDC data used for timeseries chart of pnuemoia cases
     └── README.md                         ReadMe
