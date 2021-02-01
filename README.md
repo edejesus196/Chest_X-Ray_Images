@@ -19,13 +19,28 @@ Lobar pneumonia is when fluid localizes to single lobe and show as a concentrati
 <p><img src="./images/lobar_pneumonia.jpeg" width="235" height="256" style="float:left"></p>
 
 
-In this case study, I test several convolutional neural network to identify wether an X ray image is shows normal lungs or lungs infected with pneumonia.
+In this case study, I test several convolutional neural network to identify wether an X ray image is shows normal lungs or lungs infected with pneumonia.The dataset used in this case study comes from Kermany et al. on [Mendeley](https://data.mendeley.com/datasets/rscbjbr9sj/3), but this project uses the [Kaggles’ version](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
+
 
 ## Approach
 
+### Data and model preparation in 5 major steps:
 
 1. **Preprocessing** Import and scale training, validation and testing batches of x ray images.
 2. **Modeling** Create several convolutional models with different hidden neurons and layers.
 3. **Training** Train the different models on the training batch.
 4. **Evaluating** Evaluate the model on the validation and test batches using the Adam optimizer, binary cross-entropy loss function, and the accuracy metric. I also evaluate the models using the recall metric.
 5. **Tunning** Experiment with different numbers of hidden neurons and layers and compare results.
+
+## Results
+
+## Next Steps
+
+## Repository Structure
+    
+    ├── Data                              Raw Files
+    ├── EDA_Notebooks                     Original EDA Workbooks    
+    ├── Reference                         Reference Files and Terms Dictionaries
+    ├── images                            Images
+    ├── README.md                         ReadMe
+    └── census_income_2019_EDA.ipynb      Final Notebook
