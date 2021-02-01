@@ -1,5 +1,5 @@
 # Pnuemonia Chest X Rays
-## A Case Study Ssing Neural Networks to Identify Pneumonia in Chest X Rays
+## A Case Study Using Neural Networks to Identify Pneumonia in Chest X Rays
 Author: [Edward De Jesus](https://github.com/edejesus196)
 
 <p><img src="./images/normal-pneumonia-animation.gif" alt="Header"></p>
