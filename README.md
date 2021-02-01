@@ -16,7 +16,7 @@ Atypical pneumonia commonly  concentrates in the perihilar region of the lungs.
 <p><img src="./images/Atypical_pneumonia.jpeg" width="235" height="256" style="float:left"></p>
 
 Lobar pneumonia is when fluid localizes to single lobe and show as a concentration in a region of the lungs.
-<p><img src="./images/lobar_pneumonia" width="235" height="256" style="float:left"></p>
+<p><img src="./images/lobar_pneumonia.jpeg" width="235" height="256" style="float:left"></p>
 
 
 identify wether an X ray image is show normal lungs or lungs infected with pneumonia.
