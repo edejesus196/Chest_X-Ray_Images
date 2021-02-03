@@ -19,7 +19,7 @@ Lobar pneumonia is when fluid localizes to single lobe and show as a concentrati
 <p><img src="./images/lobar_pneumonia.jpeg" width="235" height="256" style="float:left"></p>
 
 
-In this case study, I test several convolutional neural networks to identify wether an X ray image is shows normal lungs or lungs infected with pneumonia.The dataset used comes from Kermany et al. on [Mendeley](https://data.mendeley.com/datasets/rscbjbr9sj/3), but this project uses the [Kaggles’ version](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
+In this case study, I test several convolutional neural networks to identify wether an x ray image shows normal lungs or pneumonia infected lungs.The dataset used comes from Kermany et al. on [Mendeley](https://data.mendeley.com/datasets/rscbjbr9sj/3), but this project uses [Kaggles’ version](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia).
 
 
 ## Approach
@@ -33,7 +33,7 @@ In this case study, I test several convolutional neural networks to identify wet
 5. **Tunning -** Experiment with different numbers of hidden neurons and layers and compare results.
 
 ## Results
-I tested three convolutional 3 neural networks on the validation and testing batches. Below are the results I obtained evaluation the models on the testing batch. Model 1 is a simpler model containing 32 hidden neurons in the first and second convolutional hidden layer, and 100 hidden neurons in a third dense layer. Model 2 contains 32 hidden neurons in the first and second convolutional hidden layers, and 100 hidden neurons in a third dense layer. And Model 3 has 64 hidden neurons in the first convolutional first hidden layer, but 32 in the send and a third hidden layer, and 100 hidden neurons in a fourth dense hidden layer.
+I tested three convolutional 3 neural networks on the validation and testing batches. Below are the results I obtained evaluating the models on the testing batch. Model 1 is a simpler model containing 32 hidden neurons in the first and second convolutional hidden layer, and 100 hidden neurons in a third dense layer. Model 2 contains 32 hidden neurons in the first and second convolutional hidden layers, and 100 hidden neurons in a third dense layer. And Model 3 has 64 hidden neurons in the first convolutional first hidden layer, but 32 in the send and a third hidden layer, and 100 hidden neurons in a fourth dense hidden layer.
 
 |          |Test Loss|Test Accuracy|F1 Score|Recall|
 |:---------|:--------|:------------|:-------|:-----|
